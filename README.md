@@ -22,12 +22,11 @@ npm start
 Pas nisjes së serverit, API-ja do të jetë gati për të pranuar kërkesat nga klienti.
 
 
-## 📂 Project Structure
-
-The project consists of two core files:
+## 📂 Struktura e Skedarëve
 
 ```text
 FSHN-Airlines-Client/
-├── index.html   # Main HTML structure with embedded styles and content
-├── script.js    # Application logic, API interactions, and DOM manipulation
-└── README.md    # Project documentation
+│
+├── index.html       # Skedari kryesor (përmban HTML, CSS dhe JS)
+├── README.md        # Ky dokument
+└── 
